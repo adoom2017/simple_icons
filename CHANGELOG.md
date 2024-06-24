@@ -1,3 +1,22 @@
+## [12.4.0] - auto_generated update
+
+### New Icons
+
+- 1.1.1.1 ([#11266](https://github.com/simple-icons/simple-icons/pull/11266)) (@anhthang)
+- AutoCannon ([#10865](https://github.com/simple-icons/simple-icons/pull/10865)) (@10xLaCroixDrinker)
+- Beekeeper Studio ([#11276](https://github.com/simple-icons/simple-icons/pull/11276)) (@jrhaberland)
+- Git for Windows ([#11241](https://github.com/simple-icons/simple-icons/pull/11241)) (@anhthang)
+- Gusto ([#11245](https://github.com/simple-icons/simple-icons/pull/11245)) (@jrhaberland)
+- Hyprland ([#11235](https://github.com/simple-icons/simple-icons/pull/11235)) (@anhthang)
+- LibreWolf ([#11195](https://github.com/simple-icons/simple-icons/pull/11195)) (@CodeShakingSheep)
+- Mintlify ([#11226](https://github.com/simple-icons/simple-icons/pull/11226)) (@anhthang)
+- Plume ([#11278](https://github.com/simple-icons/simple-icons/pull/11278)) (@anhthang)
+- PrimeNG ([#11200](https://github.com/simple-icons/simple-icons/pull/11200)) (@anhthang)
+- PrimeReact ([#11201](https://github.com/simple-icons/simple-icons/pull/11201)) (@anhthang)
+- Suno ([#11150](https://github.com/simple-icons/simple-icons/pull/11150)) (@anhthang)
+- trivago ([#11203](https://github.com/simple-icons/simple-icons/pull/11203)) (@anhthang)
+- Wykop ([#11198](https://github.com/simple-icons/simple-icons/pull/11198)) (@anhthang)
+
 ## [12.0.0] - auto_generated update
 
 #### New Icons
